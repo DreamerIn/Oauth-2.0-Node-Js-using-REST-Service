@@ -1,0 +1,45 @@
+HISD
+
+User : Schoolcity_QA01@gmail.com
+Pass : 1234567
+
+Student : 1902161
+
+Video : https://screencast-o-matic.com/watch/cbQf6UIhsV
+
+--------------------------------------------
+
+Calexico Unified School District
+
+User : Schoolcity_QA02@gmail.com
+Pass : 1234567
+
+Student : 57002937
+
+Video : https://screencast-o-matic.com/watch/cbQf6RIhsk
+
+---------------------------------------------
+
+fairfax
+
+User : Schoolcity_QA03@gmail.com
+Pass : 1234567
+
+Student : 5000039
+
+Video : https://screencast-o-matic.com/watch/cbQfXvIhMk
+
+---------------------------------------------
+
+User : Schoolcity_QA04@gmail.com
+Pass : 1234567
+
+Video : https://screencast-o-matic.com/watch/cbQfXMIhLT
+
+---------------------------------------------
+
+
+
+
+
+
